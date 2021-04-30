@@ -1,0 +1,10 @@
+.ButtonBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 90px;
+
+    & button.accept {
+    margin-right: 15px;
+    }
+}
